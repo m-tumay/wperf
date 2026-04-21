@@ -1,6 +1,5 @@
 package main
 //wperf
-//import
 import (
 	"bufio"
 	"flag"
